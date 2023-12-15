@@ -1,0 +1,31 @@
+
+Following file
+  overall report description
+    section 1
+       problem description
+    section 2
+     first version of algorithm used
+     description of first version of code
+     description of results with first version of code
+   section 3
+     second version of algorithm used
+     description of second version of code
+     description of results with second version of code
+   section 4
+     third version of algorithm used
+     description of third version of code
+     description of results with third version of code
+ 
+Following folers 
+   cove v1
+      input data file
+      pytho code
+      output data file
+   cove v2
+      input data file
+      pytho code
+      output data file
+   cove v3
+      input data file
+      pytho code
+      output data file
